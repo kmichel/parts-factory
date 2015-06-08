@@ -50,7 +50,6 @@ h1 {
 
 .parts-properties-content {
     overflow-y: scroll;
-    flex: 1 0 0%;
     position: relative;
 }
 
